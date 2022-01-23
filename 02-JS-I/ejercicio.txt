@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables = una variable es donde se guarda una informacion, donde ocupa un espacio, se pueden declarar 	
+	distintos tipos de variables, 
+	* Strings = Un string es una cadena de caracteres, se identifica porque siempre van entre comillas 
+	* Funciones (argumentos, `return`) = Las funciones son lo que declaramos cuando vamos a hacer algo en 	
+	repetidas ocasiones, una funcion siempre retorna algo, y ese algo es lo que se va a ejecutar
+	Una funcion con argumentos es cuando le pasamos unos datos, para que realice lo que esta en el codigo
+	el return es lo que devuelve al realizar la funcion, la funcion termina con el return
+	* Declaraciones `if`= el if es en ingles lo que en español es si, es un condicional, que si se cumple lo que 	
+	se pide se realiza el codigo que esta dentro, sino pasa a otra declaracion
+	* Valores booleanos (`true`, `false`) Un booleano es un si o no, compara dos cosas distintas y determina si es 	verdadero o falso.
+
