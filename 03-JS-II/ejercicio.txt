@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` El for es un bucle que se va repitiendo para ir arrojando resultados, el bucle for recibe tres parametros, donde inicia, donde termina, y como va incrementando esa variable. El for nos sirve para determinar varios datos.
+
+* `&&` El "and" es una operacion de comparacion, donde compara dos variables y si las dos se cumplen arroja un verdadero, si alguna de las dos no se cumple o las dos no se cumplen, arroja un falso.
+  `||` El "o" es una operacion de comparacion, donde compara dos variables y si las dos variables se cumplen o alguna de las dos se cumple arroja verdadero, si ninguna de las dos se cumple, arroja falso.
+, `!`  El "No" niega lo que esta escrito, significa que no es verdadero lo que se esta escribiendo 
