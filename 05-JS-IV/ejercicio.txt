@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos : un objeto es un contenedor de datos que tiene mucha informacion sobre una cosa, los objetos tienen llaves y valores donde guardan la informacion, van en corchetes. 
+	* Propiedades : las propiedades son lo que componen los objetos, hace referencia a las llaves.
+	* Métodos : son funciones guardadas en un objeto
+	* Bucle `for…in`: los objetos no tienen indices numericos por lo tanto, se usa el bucle for in para iterar los objetos
+	* Notación de puntos vs notación de corchetes: para acceder a una propiedad podemos usar cualquier de las notaciones, ya sea con puntos o corchetes.
