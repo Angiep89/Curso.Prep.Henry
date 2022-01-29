@@ -1,0 +1,8 @@
+# Homework: Javascript V
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype` = el prototype son las funciones, metodos de una clase, que se pueden invocar tantas veces sea necesario con el objeto
+* _Constructors_ (de Clases) = las clases son como un objeto pero con mas funcionalidades, engloba una serie de plantillas que compartes varios objetos por lo que no hay que hacerla mas veces, sino con una puede servir para muchos objetos que compartan una misma informacion
